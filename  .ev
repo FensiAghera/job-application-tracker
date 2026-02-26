@@ -1,0 +1,4 @@
+DATABASE_URL=postgresql://jobtracker:jobtracker@localhost:5432/jobtracker
+SECRET_KEY=supersecretkeychangeit123
+ALGORITHM=HS256
+ACCESS_TOKEN_EXPIRE_MINUTES=60
